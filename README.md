@@ -1,3 +1,5 @@
+## check out this new and better one. https://github.com/amintum/MobileDataTile
+
 # 📶 Data SIM Quick Settings Tile
 
 [![Android 10+](https://img.shields.io/badge/Android-10%2B%20%7C%2014%20%7C%2015%20%7C%2016-00E5FF?style=for-the-badge&logo=android)](https://github.com/amintum)
